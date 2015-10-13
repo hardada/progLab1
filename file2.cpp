@@ -2,11 +2,20 @@ package lab1;
 
 public class Arr {
 	private static String s = "Time after time...";
-	//Коментарий
+	//Comment
+	private static String fun1()
+	{
+	return "I've done my sentence \n But committed no crime";
+		}
+
 	public static void main(String []args)
 	{
 		System.out.println("I've paid my dues \n" + s);
-		System.out.println("We are the champions!");
-	}
+		fun1();
+
+	//This text exists only in hel_branch
+		System.out.println("I've paid my dues \n" + s);
+		fun();
+		System.out.println("We are the champions, \n My friend!");
 
 }
