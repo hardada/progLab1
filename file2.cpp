@@ -2,7 +2,7 @@ package lab1;
 
 public class Arr {
 	private static String s = "Time after time...";
-	//Comment
+	//This comment was created in cloned repo
 	private static String fun1()
 	{
 	return "I've done my sentence \n But committed no crime";
