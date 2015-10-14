@@ -6,6 +6,7 @@ public class Arr {
 	// this - in cloned
 	//to the bare
 	//try push to bare
+	//push second time to hubR
 	private static String fun1()
 	{
 	return "I've done my sentence \n But committed no crime";
