@@ -5,6 +5,7 @@ public class Arr {
 	//This comment was created in origin repo
 	// this - in cloned
 	//to the bare
+	//try push to bare
 	private static String fun1()
 	{
 	return "I've done my sentence \n But committed no crime";
